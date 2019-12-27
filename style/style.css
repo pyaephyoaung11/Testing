@@ -85,11 +85,11 @@ body{
 }
 
 .message::before{
-  content: url(https://github.com/pyaephyoaung11/Testing/tree/master/images/icon-messages.svg);
+  content: url("../images/icon-messages.svg");
 }
 
 .communitity::before{
-  content: url(https://github.com/pyaephyoaung11/Testing/tree/master/images/icon-communities.svg);
+  content: url("../images/icon-communities.svg");
 }
 
 .message::after{
